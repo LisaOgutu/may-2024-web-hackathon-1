@@ -37,5 +37,5 @@ Code Quality: Cleanliness, organization, and use of best practices.
 
 Happy hacking and we look forward to seeing your amazing portfolio websites!
 
-![ER diagram](https://github.com/LisaOgutu/may-2024-web-hackathon-1/blob/main/image1.png)
+![ER diagram]()
 
